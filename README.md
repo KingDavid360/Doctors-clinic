@@ -20,5 +20,5 @@ smooth_page_indicator: 1.0.0+2
 ### Home page
 ![HomeScreen](https://user-images.githubusercontent.com/80047364/186665540-af90ab42-4d4a-413e-9aaf-5f7e32cd52d1.png)
 
-###Details page
+### Details page
 ![detailsPage](https://user-images.githubusercontent.com/80047364/186665748-e5228766-ff4a-45ff-9c97-00809f86bfad.png)
