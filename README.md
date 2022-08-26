@@ -15,7 +15,7 @@ smooth_page_indicator: 1.0.0+2
 ## Screenshots
 
 ### Welcome page 
-![welcome](https://user-images.githubusercontent.com/80047364/186665244-31f25199-bdd7-47f6-a7e9-e240f6ad8e3d.png)
+![Home1](https://user-images.githubusercontent.com/80047364/186949049-bad4517c-56fb-401a-8b84-b10006960c95.png)
 
 ### Home page
 ![HomeScreen](https://user-images.githubusercontent.com/80047364/186665540-af90ab42-4d4a-413e-9aaf-5f7e32cd52d1.png)
